@@ -11,7 +11,7 @@
     "cli-spinners": "^1.1.0",
     "command-line-args": "^4.0.7",
     "command-line-usage": "^4.0.1",
-    "diff": "^3.5.0",
+    "diff": "^3.5.1",
     "folder-hash": "^2.1.2",
     "fs-extra": "^4.0.2",
     "log-update": "^2.1.0",
@@ -19,6 +19,6 @@
     "prompt-promise": "^1.0.3",
     "puppeteer": "^1.11.0",
     "pushstate-server": "^3.0.1",
-    "semver": "^5.4.1"
+    "semver": "^5.7.2"
   }
 }
