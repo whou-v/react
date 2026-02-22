@@ -16,7 +16,7 @@
     "query-string": "^4.2.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "semver": "^5.5.0"
+    "semver": "^7.7.4"
   },
   "scripts": {
     "dev": "react-scripts start",
