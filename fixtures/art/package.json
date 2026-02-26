@@ -8,7 +8,7 @@
     "react": "^19.0.0",
     "react-art": "^19.0.0",
     "react-dom": "^19.0.0",
-    "webpack": "^1.14.0"
+    "webpack": "^5.105.2"
   },
   "scripts": {
     "prebuild": "cp -r ../../build/oss-experimental/* ./node_modules/",
